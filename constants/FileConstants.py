@@ -1,0 +1,1 @@
+TWEETER_CONFIG = "tweeter_config.ini"
